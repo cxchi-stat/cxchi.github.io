@@ -29,11 +29,10 @@ redirect_from:
 
 - Sep. 2011-- Jun. 2015, B.Sc. in Statistics  |  Supervisor: *[Prof. Xiaobing Zhao](https://ds.zufe.edu.cn/info/1104/4821.htm)* 
 
-
 ## Working Experience
 
-Teaching Assistant in Zhejiang University
-------
+### Teaching Assistant in Zhejiang University
+ 
 During doctoral studies： 
 
 1. Sep. 2022--Jan. 2023, Life Insurance Science.
@@ -52,8 +51,8 @@ During master studies：
 
 7. Sep. 2016--Jan. 2017, Life Insurance Science.
 
-Teaching Assistant in Massive Open Online Course (MOOC)
-------
+### Teaching Assistant in Massive Open Online Course (MOOC)
+
 Courses: Probability Theory and Mathematical Statistics (CAP), etc.
 
 ## Awards and Distinctions
