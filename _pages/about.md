@@ -9,10 +9,8 @@ redirect_from:
 ---
 - - -
 
-
  ## Main research interests
-- Functional data analysis;
-- Nonparametric statistics; 
+- Functional data analysis; 
 - Measurement errors;  
 - High dimensional time series;  
 - Spatial data analysis; 
@@ -58,15 +56,15 @@ Courses: Probability Theory and Mathematical Statistics (CAP), etc.
 
 ## Awards and Distinctions
 
-2022, **Award of Honor for Graduate**, Zhejiang University.
+- 2022, **Award of Honor for Graduate**, Zhejiang University.
 
-2021, **Award of Honor for Graduate**, Zhejiang University.
+- 2021, **Award of Honor for Graduate**, Zhejiang University.
 
-2017, **Award of Honor for Graduate**, Zhejiang University.
+- 2017, **Award of Honor for Graduate**, Zhejiang University.
 
-2014, **The Third-class Scholarship for Excellent Students**, Zhejiang University of Finance and Economics.
+- 2014, **The Third-class Scholarship for Excellent Students**, Zhejiang University of Finance and Economics.
 
-2013, **The Second-class Scholarship for Excellent Students**, Zhejiang University of Finance and Economics.
+- 2013, **The Second-class Scholarship for Excellent Students**, Zhejiang University of Finance and Economics.
 
-2013, **The Title of Excellent Student Cadre**, Zhejiang University of Finance and Economics. 
+- 2013, **The Title of Excellent Student Cadre**, Zhejiang University of Finance and Economics. 
 
