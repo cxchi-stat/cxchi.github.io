@@ -7,9 +7,10 @@ redirect_from:
  - /about/
  - /about.html
 ---
+- - -
+
 
  ## Main research interests
- 
 - Functional data analysis;
 - Nonparametric statistics; 
 - Measurement errors;  
@@ -21,13 +22,13 @@ redirect_from:
 
 ### [Zhejiang University](https://www.zju.edu.cn/)
 
-- Sep. 2020--Sep. 2023, Ph.D. in Probability Theory and Mathematical Statistics  |  Supervisor: *[Prof. Rongmao Zhang](https://person.zju.edu.cn/en/0006280)* 
+- Sep. 2020--Sep. 2023, Ph.D. in Probability Theory and Mathematical Statistics,  Supervisor: *[Prof. Rongmao Zhang](https://person.zju.edu.cn/en/0006280)* 
 
-- Sep. 2015--Mar. 2018, M.Phil. in Statistics  |  Supervisor: *[Prof. Rongmao Zhang](https://person.zju.edu.cn/en/0006280)* 
+- Sep. 2015--Mar. 2018, M.Phil. in Statistics,  Supervisor: *[Prof. Rongmao Zhang](https://person.zju.edu.cn/en/0006280)* 
 
 ### [Zhejiang University of Finance and Economics](https://www.zufe.edu.cn/)
 
-- Sep. 2011-- Jun. 2015, B.Sc. in Statistics  |  Supervisor: *[Prof. Xiaobing Zhao](https://ds.zufe.edu.cn/info/1104/4821.htm)* 
+- Sep. 2011-- Jun. 2015, B.Sc. in Statistics,  Supervisor: *[Prof. Xiaobing Zhao](https://ds.zufe.edu.cn/info/1104/4821.htm)* 
 
 ## Working Experience
 
