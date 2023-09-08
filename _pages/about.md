@@ -20,13 +20,13 @@ redirect_from:
 
 ### [Zhejiang University](https://www.zju.edu.cn/)
 
-- Sep. 2020--Sep. 2023, Ph.D. in Probability Theory and Mathematical Statistics,  Supervisor: *[Prof. Rongmao Zhang](https://person.zju.edu.cn/en/0006280)* 
+- 2020.09 -- 2023.09, Ph.D. in Probability Theory and Mathematical Statistics,  Supervisor: *[Prof. Rongmao Zhang](https://person.zju.edu.cn/en/0006280)* 
 
-- Sep. 2015--Mar. 2018, M.Phil. in Statistics,  Supervisor: *[Prof. Rongmao Zhang](https://person.zju.edu.cn/en/0006280)* 
+- 2015.09 -- 2018.03, M.Phil. in Statistics,  Supervisor: *[Prof. Rongmao Zhang](https://person.zju.edu.cn/en/0006280)* 
 
 ### [Zhejiang University of Finance and Economics](https://www.zufe.edu.cn/)
 
-- Sep. 2011-- Jun. 2015, B.Sc. in Statistics,  Supervisor: *[Prof. Xiaobing Zhao](https://ds.zufe.edu.cn/info/1104/4821.htm)* 
+- 2011.09 --  2015.06, B.Sc. in Statistics,  Supervisor: *[Prof. Xiaobing Zhao](https://ds.zufe.edu.cn/info/1104/4821.htm)* 
 
 ## Working Experience
 
@@ -34,21 +34,21 @@ redirect_from:
  
 During doctoral studies： 
 
-1. Sep. 2022--Jan. 2023, Life Insurance Science.
+1. 2022.09 -- 2023.01, Life Insurance Science.
 
-2. Sep. 2021--Jan. 2022, Life Insurance Science.
+2. 2021.09 -- 2022.01, Life Insurance Science.
 
-3. Sep. 2020--Jan. 2021, Calculus.
+3. 2020.09 -- 2021.01, Calculus.
 
 During master studies：
 
-4. Sep. 2017--Jan. 2018, Life Insurance Science.
+4. 2017.09 -- 2018.01, Life Insurance Science.
 
-5. Feb. 2017--Jun. 2017, Probability Theory and Mathematical Statistics.
+5. 2017.02 -- 2017.06, Probability Theory and Mathematical Statistics.
 
-6. Feb. 2017--Jun. 2017, Mathematical Statistics.
+6. 2017.02 -- 2017.06, Mathematical Statistics.
 
-7. Sep. 2016--Jan. 2017, Life Insurance Science.
+7. 2016.09 -- 2017.01, Life Insurance Science.
 
 ### Teaching Assistant in Massive Open Online Course (MOOC)
 
