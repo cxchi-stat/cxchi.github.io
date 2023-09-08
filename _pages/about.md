@@ -9,6 +9,7 @@ redirect_from:
 ---
 
  ## Main research interests
+ 
 - Functional data analysis;
 - Nonparametric statistics; 
 - Measurement errors;  
