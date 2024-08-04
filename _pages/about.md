@@ -1,13 +1,12 @@
 ---
 permalink: / 
-excerpt: "Welcome to my personal homepage"
+title: "Main research interests"
 author_profile: true
 redirect_from:
  - /about/
  - /about.html
 ---
 
-## Main research interests
 - **Transfer Learning**  
 - **Measurement Error**  
 - **Spatiotemporal Data (including spatial data and time series)**  
