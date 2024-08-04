@@ -51,7 +51,7 @@ China Merchants Bank
 
 - **Teaching Assistant (Part-time)**  
 Zhejiang University  
-*September 2016 – January 2018* & *September 2020 – January 2023*  
+*September 2016 – January 2018* \| *September 2020 – January 2023*  
 *Courses:* Life Insurance Science, Calculus, Probability Theory and Mathematical Statistics, Mathematical Statistics, Probability Theory and Mathematical Statistics (CAP) in Massive Open Online Course (MOOC)
  
 <!-- 
