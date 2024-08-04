@@ -9,7 +9,7 @@ redirect_from:
 ---
 - - -
 
- ## Main research interests
+## Main research interests
 - Transfer Learning  
 - Measurement Error  
 - Nonparametric Statistics  
