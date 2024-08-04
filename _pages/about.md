@@ -23,17 +23,19 @@ redirect_from:
 
 ### [Zhejiang University](https://www.zju.edu.cn/)
 
-- **Ph.D. in Mathematics (Probability Theory and Mathematical Statistics)**
-September 2020 -- September 2023   
+- **Ph.D. in Mathematics (Probability Theory and Mathematical Statistics)**  
+*September 2020 -- September 2023*  
 *Supervisor: Prof. Rongmao Zhang* 
 
-- **M.Phil. in Statistics**
-September 2015 -- March 2018
+- **M.Phil. in Statistics**  
+*September 2015 -- March 2018*  
 *Supervisor: Prof. Rongmao Zhang* 
 
 ### [Zhejiang University of Finance and Economics](https://www.zufe.edu.cn/)
 
-- **B.Sc. in Statistics**, September 2011 --  June 2015,   *Supervisor: Prof. Xiaobing Zhao*   
+- **B.Sc. in Statistics**  
+*September 2011 --  June 2015*  
+*Supervisor: Prof. Xiaobing Zhao*   
 
 ## Working Experience
 - **Research Fellow in Statistics**  
