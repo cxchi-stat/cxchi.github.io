@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Statistics, Zhejiang University of Finance and Economics, 2015
+* M.Phil. in Statistics, Zhejiang University, 2018
+* Ph.D in Mathematics(Probability Theory and Mathematical Statistics), Zhejiang University, 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* December 2023 - Present: Research Fellow in Statistics
+  * School of Mathematics and Statistics, University of Melbourne
+  * Supervisor: Professor Aurore Delaigle
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* December 2018 – April 2020: Mathematics Teacher (Part-time)
+  * Teaching advanced mathematics to college students
+
+* July 2018 – December 2018: Product Manager (Fintech direction)
+  * China Merchants Bank
+ 
+* September 2020 – January 2023: Teaching Assistant (Part-time)
+  * Zhejiang University
+  * Courses: Life Insurance Science, Calculus
+* September 2016 – January 2018: Teaching Assistant (Part-time)
+  * Zhejiang University
+  * Courses: Life Insurance Science, Probability Theory and Mathematical Statistics, Mathematical Statistics, Probability Theory and Mathematical Statistics (CAP) in Massive Open Online Course (MOOC), etc. 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software skill
+  * R & MATLAB as daily statistical research software.
+  * Other Programming languageS & software: C++ \| SAS \| STATA \| SPSS \| Python.
 
 Publications
 ======
@@ -54,6 +58,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
