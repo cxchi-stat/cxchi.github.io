@@ -13,7 +13,7 @@ redirect_from:
 - Transfer Learning  
 - Measurement Error  
 - Nonparametric Statistics  
-- Spatial Data analysis  
+- Spatial Data  
 - Time Series, etc.
 
 ## Education
