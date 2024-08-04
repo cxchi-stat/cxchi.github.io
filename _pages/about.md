@@ -28,6 +28,8 @@ redirect_from:
 - 2011.09 --  2015.06, B.Sc. in Statistics,  Supervisor: *Prof. Xiaobing Zhao*   
 
 ## Working Experience
+1. 2023.12 -- , Research Fellow in Statistics, University of Melbourne;
+2. 2018.07 -- 2018.12, Product Manager (Fintech direction) in China Merchants Bank.
 
 <!-- 
 ### Teaching Assistant in Zhejiang University
