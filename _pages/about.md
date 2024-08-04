@@ -10,11 +10,12 @@ redirect_from:
 - - -
 
 ## Main research interests
-- Transfer Learning  
-- Measurement Error  
-- Nonparametric Statistics  
-- Spatial Data  
-- Time Series, etc.
+- **Transfer Learning**  
+- **Measurement Error**  
+- **Nonparametric Statistics**  
+- **Spatial Data**  
+- **Time Series**
+- **Financial Statistics**
 
 ## Education
 
