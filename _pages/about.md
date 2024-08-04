@@ -15,6 +15,11 @@ redirect_from:
 - **Spatiotemporal Data (including spatial data and time series)**  
 - **Financial Statistics**
 
+## Skills
+**Software skill**
+- **R (programming language) & MATLAB** as daily statistical research software.
+- Other programming language & software learned in class: C++| SAS | STATA | SPSS | Python.
+
 ## Education
 
 ### [Zhejiang University](https://www.zju.edu.cn/)
