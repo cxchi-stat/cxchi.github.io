@@ -34,10 +34,10 @@ redirect_from:
 
 ## Working Experience
 - 2023.12 -- , **Research Fellow in Statistics**, School of Mathematics and Statistics, University of Melbourne;
-- 2020.09 -- 2023.01, **Teaching Assistant** in Zhejiang University, Courses: Life Insurance Science, Calculus.
-- 2018.12 -- 2020.04 (part-time), **Mathematical Teacher**, teaching advanced Mathematics for college students.
 - 2018.07 -- 2018.12, **Product Manager (Fintech direction)** in China Merchants Bank.
-- 2016.09 -- 2018.01, **Teaching Assistant** in Zhejiang University,
+- 2020.09 -- 2023.01 (part-time), **Teaching Assistant** in Zhejiang University, Courses: Life Insurance Science, Calculus.
+- 2018.12 -- 2020.04 (part-time), **Mathematical Teacher**, teaching advanced Mathematics for college students.
+- 2016.09 -- 2018.01 (part-time), **Teaching Assistant** in Zhejiang University,
   Courses: Life Insurance Science, Probability Theory and Mathematical Statistics, Mathematical Statistics, Probability Theory and Mathematical Statistics (CAP) in Massive Open Online Course (MOOC), etc.
  
 <!-- 
