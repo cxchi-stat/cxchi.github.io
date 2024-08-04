@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: " "
-excerpt: " "
+title: "Personal Homepage"
+excerpt: "Welcome to my personal homepage"
 author_profile: true
 redirect_from:
  - /about/
@@ -17,28 +17,42 @@ redirect_from:
 
 ## Skills
 **Software skill:**
-- **R (programming language) & MATLAB** as daily statistical research software.
-- Other programming language & software learned in class: C++\| SAS \| STATA \| SPSS \| Python.
+- **R & MATLAB** as daily statistical research software.
+- Other Programming languageS & software: C++\| SAS \| STATA \| SPSS \| Python.
 
 ## Education
 
 ### [Zhejiang University](https://www.zju.edu.cn/)
 
-- 2020.09 -- 2023.09, Ph.D. in Mathematics (Probability Theory and Mathematical Statistics),  Supervisor: *Prof. Rongmao Zhang* 
+- **Ph.D. in Mathematics (Probability Theory and Mathematical Statistics)**
+September 2020 -- September 2023   
+*Supervisor: Prof. Rongmao Zhang* 
 
-- 2015.09 -- 2018.03, M.Phil. in Statistics,  Supervisor: *Prof. Rongmao Zhang* 
+- **M.Phil. in Statistics**
+September 2015 -- March 2018
+*Supervisor: Prof. Rongmao Zhang* 
 
 ### [Zhejiang University of Finance and Economics](https://www.zufe.edu.cn/)
 
-- 2011.09 --  2015.06, B.Sc. in Statistics,  Supervisor: *Prof. Xiaobing Zhao*   
+- **B.Sc. in Statistics**, September 2011 --  June 2015,   *Supervisor: Prof. Xiaobing Zhao*   
 
 ## Working Experience
-- 2023.12 -- , **Research Fellow in Statistics**, School of Mathematics and Statistics, University of Melbourne;
-- 2018.07 -- 2018.12, **Product Manager (Fintech direction)** in China Merchants Bank.
-- 2020.09 -- 2023.01 (part-time), **Teaching Assistant** in Zhejiang University, Courses: Life Insurance Science, Calculus.
-- 2018.12 -- 2020.04 (part-time), **Mathematical Teacher**, teaching advanced Mathematics for college students.
-- 2016.09 -- 2018.01 (part-time), **Teaching Assistant** in Zhejiang University,
-  Courses: Life Insurance Science, Probability Theory and Mathematical Statistics, Mathematical Statistics, Probability Theory and Mathematical Statistics (CAP) in Massive Open Online Course (MOOC), etc.
+- **Research Fellow in Statistics**  
+University of Melbourne, School of Mathematics and Statistics  
+*December 2023 -- Present* 
+
+- **Mathematics Teacher (Part-time)**  
+  Teaching advanced mathematics to college students  
+  *December 2018 – April 2020*
+
+- **Product Manager (Fintech direction)**  
+China Merchants Bank  
+*July 2018 -- December 2018*
+
+- **Teaching Assistant (Part-time)**  
+Zhejiang University  
+*September 2016 – January 2018* & *September 2020 – January 2023*  
+*Courses:* Life Insurance Science, Calculus, Probability Theory and Mathematical Statistics, Mathematical Statistics, Probability Theory and Mathematical Statistics (CAP) in Massive Open Online Course (MOOC)
  
 <!-- 
 ### Teaching Assistant in Zhejiang University
