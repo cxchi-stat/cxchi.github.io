@@ -26,7 +26,7 @@ redirect_from:
 
 ### [Zhejiang University of Finance and Economics](https://www.zufe.edu.cn/)
 
-- 2011.09 --  2015.06, B.Sc. in Statistics  
+- 2011.09 --  2015.06, B.Sc. in Statistics,  Supervisor: *Prof. Xiaobing Zhao*   
 
 ## Working Experience
 
