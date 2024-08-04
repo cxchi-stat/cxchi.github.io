@@ -10,11 +10,11 @@ redirect_from:
 - - -
 
  ## Main research interests
-- Functional data analysis; 
-- Measurement errors;  
-- High dimensional time series;  
-- Spatial data analysis; 
-- Statistical inference, etc.
+- Transfer Learning; 
+- Measurement Error;  
+- Nonparametric Statistics;  
+- Spatial Data analysis; 
+- Time Series, etc.
 
 ## Education
 
