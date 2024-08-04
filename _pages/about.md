@@ -1,6 +1,5 @@
 ---
-permalink: /
-title: / 
+permalink: / 
 excerpt: "Welcome to my personal homepage"
 author_profile: true
 redirect_from:
