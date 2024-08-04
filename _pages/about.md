@@ -18,7 +18,7 @@ redirect_from:
 ## Skills
 **Software skill:**
 - **R (programming language) & MATLAB** as daily statistical research software.
-- Other programming language & software learned in class: C++| SAS | STATA | SPSS | Python.
+- Other programming language & software learned in class: C++\| SAS \| STATA \| SPSS \| Python.
 
 ## Education
 
