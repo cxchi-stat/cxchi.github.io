@@ -30,6 +30,7 @@ redirect_from:
 
 ## Working Experience
 
+<!-- 
 ### Teaching Assistant in Zhejiang University
  
 During doctoral studies： 
@@ -53,7 +54,7 @@ During master studies：
 ### Teaching Assistant in Massive Open Online Course (MOOC)
 
 Courses: Probability Theory and Mathematical Statistics (CAP), etc.
-
+ 
 ## Awards and Distinctions
 
 - 2022, **Award of Honor for Graduate**, Zhejiang University.
@@ -67,4 +68,4 @@ Courses: Probability Theory and Mathematical Statistics (CAP), etc.
 - 2013, **The Second-class Scholarship for Excellent Students**, Zhejiang University of Finance and Economics.
 
 - 2013, **The Title of Excellent Student Cadre**, Zhejiang University of Finance and Economics. 
-
+ -->
