@@ -41,8 +41,8 @@ redirect_from:
 University of Melbourne, School of Mathematics and Statistics  
 *December 2023 -- Present* 
 
-- **Student Intern**
-Zhejiang Provincial Institute of Commerce and Trade, Hangzhou, China
+- **Student Intern**  
+Zhejiang Provincial Institute of Commerce and Trade, Hangzhou, China  
 *Summer 2021*
 
 - **Part-time Instructor**  
