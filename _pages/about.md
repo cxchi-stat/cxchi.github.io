@@ -41,7 +41,7 @@ redirect_from:
 University of Melbourne, School of Mathematics and Statistics  
 *December 2023 -- Present* 
 
-- **Mathematics Teacher (Part-time)**  
+- **Part-time Instructor**  
   Teaching advanced mathematics to college students  
   *December 2018 – April 2020*
 
@@ -49,7 +49,7 @@ University of Melbourne, School of Mathematics and Statistics
 China Merchants Bank  
 *July 2018 -- December 2018*
 
-- **Teaching Assistant (Part-time)**  
+- **Teaching Assistant**  
 Zhejiang University  
 *September 2016 – January 2018* \| *September 2020 – January 2023*  
 *Courses:* Life Insurance Science, Calculus, Probability Theory and Mathematical Statistics, Mathematical Statistics, Probability Theory and Mathematical Statistics (CAP) in Massive Open Online Course (MOOC)
