@@ -7,10 +7,10 @@ redirect_from:
  - /about.html
 ---
 
-- **Transfer Learning**  
-- **Measurement Error**  
-- **Spatiotemporal Data (including spatial data and time series)**  
-- **Financial Statistics**
+- **Transfer learning in statistics;**  
+- **Nonparametric statistics with measurement error;**  
+- **Time series and spatial statistics analysis;**  
+- **Applied statistics in neuroscience and finance, etc.**
 
 ## Skills
 **Software skill:**
@@ -32,8 +32,7 @@ redirect_from:
 ### [Zhejiang University of Finance and Economics](https://www.zufe.edu.cn/)
 
 - **B.Sc. in Statistics**  
-*September 2011 --  June 2015*  
-*Supervisor: Prof. Xiaobing Zhao*   
+*September 2011 --  June 2015*    
 
 ## Working Experience
 - **Research Fellow in Statistics**  
