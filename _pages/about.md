@@ -37,7 +37,7 @@ redirect_from:
 *September 2011 --  June 2015*    
 
 ## Working Experience
-- **Research Fellow in Statistics**  
+- **Research Fellow in Statistics** (*Supervisor: Prof. Aurore Delaigle*)  
 University of Melbourne, School of Mathematics and Statistics  
 *December 2023 -- Present* 
 
