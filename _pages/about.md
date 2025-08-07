@@ -22,13 +22,13 @@ redirect_from:
 ### [Zhejiang University](https://www.zju.edu.cn/)
 
 - **Ph.D. in Mathematics (Probability Theory and Mathematical Statistics)**  
-*September 2020 -- September 2023*
+*September 2020 -- September 2023*  
 *Thesis: Estimation and testing of non-stationary spatio-temporal data*  
 *Supervisor: Prof. Rongmao Zhang* 
 
 - **M.Phil. in Statistics**  
-*September 2015 -- March 2018*
-*Thesis: Group LASSO for change-point problem of mean function in functional data analysis* 
+*September 2015 -- March 2018*  
+*Thesis: Group LASSO for change-point problem of mean function in functional data analysis*  
 *Supervisor: Prof. Rongmao Zhang* 
 
 ### [Zhejiang University of Finance and Economics](https://www.zufe.edu.cn/)
