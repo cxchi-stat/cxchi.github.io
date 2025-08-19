@@ -7,9 +7,9 @@ redirect_from:
  - /about.html
 ---
 
-- **Transfer learning in statistics;**  
-- **Nonparametric statistics with measurement error;**  
 - **Time series and spatial statistics analysis;**  
+- **Statistical Learning and Inference (including transfer learning);**  
+- **Nonparametric statistics with measurement error;**  
 - **Applied statistics in neuroscience and finance, etc.**
 
 ## Skills
